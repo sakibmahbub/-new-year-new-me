@@ -56,6 +56,10 @@ header {
   padding: 50px;
   margin-top: 100px;
 }
+.about-img{
+  width: 80%;
+  height: auto;
+}
 .about-heading {
   font-size: 40px;
   line-height: 47px;
@@ -91,7 +95,7 @@ header {
   font-size: 40px;
   line-height: 47px;
   color: #151414;
-  margin-bottom: 60px;
+  margin-bottom: 80px;
 }
 .plan-contents {
   text-align: center;
@@ -101,18 +105,18 @@ header {
   justify-content: space-around;
 }
 .plan-info-box img {
-  width: 64px;
-  height: 64px;
+  width: 85px;
   margin-bottom: 10px;
 }
 .plan-info-title {
   font-weight: 700;
-  font-size: 20px;
+  font-size: 25px;
   line-height: 35px;
   margin-bottom: 8px;
 }
 .plan-description {
   font-weight: 500;
+  font-size: 22px;
   line-height: 16px;
   color: #737272;
 }
@@ -124,7 +128,7 @@ header {
   background-blend-mode: overlay;
   background-repeat: no-repeat;
   background-size: cover;
-  width: 1000px;
+  width: 1100px;
   height: 300px;
   margin: 50px auto;
   text-align: left;
@@ -132,6 +136,7 @@ header {
   justify-content: left;
   align-items: center;
   border-radius: 8px;
+  margin-bottom: 120px;
 }
 .mindset-contents {
   padding: 59px 500px 59px 64px;
@@ -155,7 +160,8 @@ header {
   color: #ffffff;
 }
 .footer-info {
-  padding: 80px;
+  padding: 90px;
+  margin-left: 60px;
 }
 .footer-info p {
   font-size: 16px;
@@ -179,8 +185,10 @@ header {
   line-height: 29px;
   margin-bottom: 30px;
 }
-.footer-form{
-    padding: 80px 120px;
+.footer-form {
+  padding: 80px 120px;
+  margin-bottom: 100px;
+  margin-right: 70px;
 }
 .footer-form input {
   background: #151414;
